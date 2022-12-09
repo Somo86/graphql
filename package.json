@@ -16,7 +16,7 @@
     "@material-ui/icons": "^3.0.2",
     "apollo-boost": "^0.1.23",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-graphql": "^0.7.1",
     "graphiql": "^0.12.0",
     "graphql": "^14.0.2",
